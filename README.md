@@ -111,6 +111,7 @@ If you wan to lose more games than 100, you should do:
 -> both
 4. Watch and enjoy
 
+
 ---
 ## Note
 This was my first time using pyautogui, .npz template files, cv2, stockfish, tkinter
