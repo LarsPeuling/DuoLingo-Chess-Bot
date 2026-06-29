@@ -2,7 +2,6 @@
 stockfish/
 
 # Debug / runtime images
-image.png
 debug_after.png
 debug_before.png
 debug_error.png

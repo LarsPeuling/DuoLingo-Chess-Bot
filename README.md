@@ -97,7 +97,7 @@ This is what the bot will do in order:
 ---
 ## Manipulate games
 You can choose to manipulate the games you play. Here is how ->
--> To only win games:
+###-> To only win games:
 
 2. Change the "losses" counter to 50
 3. Enter the amount of games you want to win
@@ -106,7 +106,7 @@ Because -20 + 50 = 30.
 If you want to win more games that 50, you should do: 
 30 - (amount of games to win) = input wins
 
--> To only lose games:
+###-> To only lose games:
 1. Go to chess_daily.txt
 2. Change the "wins" counter to 30
 3. Enter the amount of games you want to lose
