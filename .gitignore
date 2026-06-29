@@ -1,1 +1,19 @@
-﻿stockfish/stockfish-windows-x86-64-avx2.exe
+# Stockfish engine
+stockfish/
+
+# Debug / runtime images
+image.png
+debug_after.png
+debug_before.png
+debug_error.png
+board_check.png
+
+# README (excluded after initial commit)
+README.md
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
