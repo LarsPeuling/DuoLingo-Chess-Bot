@@ -9,3 +9,4 @@ def debug_click_position():
 
 
 debug_click_position()
+# just to commit
