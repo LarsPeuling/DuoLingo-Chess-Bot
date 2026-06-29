@@ -77,9 +77,14 @@ run
 python chess_bot\main.py
 ```
 ---
-### 6. follow the instructions in the terminal
+### 6. Follow the instructions in the terminal
+Follow every instruction in the terminal. 
+
 ---
 ### 7. Enjoy!
+Enjoy the script, add and modify if you want, I will not accept any pushes to the main branch.
+For issues create an issue in Github.
+
 ---
 ## Flow
 After you completed step 5,6,7,
@@ -92,8 +97,8 @@ This is what the bot will do in order:
 ---
 ## Manipulate games
 You can choose to manipulate the games you play. Here is how ->
-1. Go to chess_daily.txt
 -> To only win games:
+
 2. Change the "losses" counter to 50
 3. Enter the amount of games you want to win
 i.e: you want to win 50 games -> "wins" : -20
@@ -102,6 +107,7 @@ If you want to win more games that 50, you should do:
 30 - (amount of games to win) = input wins
 
 -> To only lose games:
+1. Go to chess_daily.txt
 2. Change the "wins" counter to 30
 3. Enter the amount of games you want to lose
 i.e: you want to lose 100 games -> "losses" : -50
@@ -109,7 +115,6 @@ Because -50 + 100 = 50
 If you wan to lose more games than 100, you should do:
 50 - amount of games you want to lose = input lose
 
--> both
 4. Watch and enjoy
 
 
