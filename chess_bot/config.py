@@ -3,7 +3,7 @@
 import pyautogui
 import screeninfo
 
-STOCKFISH_PATH = r"C:\Users\Lars Peuling\Desktop\pythonProject\stockfish\stockfish-windows-x86-64-avx2.exe"
+STOCKFISH_PATH = r"{add your path to stockfish here}\stockfish-windows-x86-64-avx2.exe"
 
 # Detect laptop vs extern scherm
 monitors = screeninfo.get_monitors()
