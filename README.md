@@ -67,8 +67,10 @@ pip install screeninfo chess
 ### 4. Open DuoLingo in Chrome
 https://www.duolingo.com/learn
 Go to courses -> Add Course -> Chess
+
 Download the app
 ![alt text](image.png)
+
 Open the app
 
 ### 5. Run the bot
