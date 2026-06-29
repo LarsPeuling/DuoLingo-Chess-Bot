@@ -29,6 +29,7 @@ After downloading, place the executable in the following folder:
 
 
 Your folder structure should look like this:
+```text
 DuoLingo-Chess-Bot/
 ├── stockfish/
 │ └── board.py
@@ -55,7 +56,7 @@ DuoLingo-Chess-Bot/
 ├── debug_error.ng
 ├── test.py
 ├── README.md
-
+```
 ---
 ### 3. Install modules
 Copy and paste this line in your vscode terminal:
